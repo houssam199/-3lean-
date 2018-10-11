@@ -1,5 +1,5 @@
 token=NDk5ODcwNzQwMTQ2MDI4NTQ1.DqCkqA.zuv5enY9tSaNwy4MkoYNbN_KxqQ
-owner=464046823162511400
+owner=487434286820098068
 prefix=3I
 game=Tybe 3Ihelp
 stayinchannel=true
