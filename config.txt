@@ -3,4 +3,4 @@ owner=464046823162511400
 prefix=3I
 game=Tybe 3Ihelp
 stayinchannel=true
-songinstatus=true
+songinstatus=False
